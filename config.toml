@@ -1,63 +1,50 @@
-baseurl = "/"
-languageCode = "en-us"
-theme = "terminal"
-paginate = 5
+title = "Deserted Island DevOps"
+baseURL = "https://desertedisland.club"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[blackfriday]
+hrefTargetBlank = true
 
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "post"
+tagline = "Deserted Island DevOps"
+sub_tagline = "The Greatest Minds in DevOps... in Animal Crossing."
+sub_description = "Join us later this April for a one-day event celebrating DevOps and Animal Crossing, streaming live on twitch.tv!"
+font_awesome_version = "5.8.1"
 
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+[params.logos]
+hero = "di_logo_big.png"
 
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+[[params.social]]
+name = "GitHub"
+url = "https://github.com/open-telemetry/"
+color = "black"
+icon = "fab fa-github"
 
-  # show selector to switch language
-  showLanguageSelector = false
+[[params.social]]
+name = "Twitter"
+url = "https://twitter.com/opentelemetry"
+color = "twitter"
+icon = "fab fa-twitter"
 
-  # set theme to full screen width
-  fullWidthTheme = true
+[[params.social]]
+name = "Gitter"
+url = "https://gitter.im/open-telemetry/community"
+color = "gitter"
+icon = "fab fa-gitter"
 
-  # center theme with default width
-  centerTheme = false
+[[params.social]]
+name = "Medium"
+url = "https://medium.com/opentelemetry"
+color = "light"
+icon = "fab fa-medium"
 
-  # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+[[params.social]]
+name = "Mailing list"
+url = "https://lists.cncf.io/g/cncf-opentelemetry-community"
+color = "info"
+icon = "far fa-envelope"
 
-  # set all headings to their default size (depending on browser settings)
-  # it's set to `true` by default
-  # oneHeadingSize = false
-
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
-
-[languages]
-  [languages.en]
-    languageName = "English"
-    title = "Deserted Island DevOps"
-    subtitle = "An Animal Crossing Virtual DevOps Event"
-    owner = ""
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-
-    [languages.en.params.logo]
-      logoText = "Deserted Island DevOps"
-      logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "agenda"
-        name = "Agenda"
-        url = "/agenda"
+[[params.fonts]]
+name = "Noto Sans"
+sizes = [300,400,600,700]
+type = "sans_serif"

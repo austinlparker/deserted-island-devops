@@ -1,0 +1,29 @@
+{{ $title      := .Title }}
+{{ $tagline    := site.Params.tagline | markdownify }}
+{{ $subtagline := site.Params.sub_tagline | markdownify }}
+{{ $description := site.Params.sub_description | markdownify }}
+{{ $logo       := printf "/images/logos/%s" site.Params.logos.hero | relURL }}
+<section class="hero is-medium">
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-6">
+          <img class="main-hero-logo" src="{{ $logo }}">
+        </div>
+        <div class="column is-6 box has-text-centered">
+          <p class="subtitle is-size-2-desktop is-size-3-tablet is-size-4-mobile has-text-weight-light ">
+            {{ $subtagline }}
+          </p>
+          <p class="is-size-5-desktop is-size-6-tablet is-size-6-mobile has-text-weight-light">
+            {{ $description }}
+          </p>
+          <br>
+          <div class="buttons is-centered">
+            <a href="https://tinyletter.com/DesertedIslandDevOps"><button class="button is-primary">Register Now!</button></a>
+            <button class="button is-disabled">CFP Opening Soon!</button>  
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

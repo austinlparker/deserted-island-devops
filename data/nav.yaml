@@ -1,0 +1,8 @@
+- name: About
+  url: "/about"
+- name: Register
+  url: "https://tinyletter.com/DesertedIslandDevOps"
+- name: Agenda
+  url: "/agenda"
+- name: Code of Conduct
+  url: "/coc"

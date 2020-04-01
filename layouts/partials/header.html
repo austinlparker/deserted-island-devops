@@ -1,0 +1,32 @@
+{{ $links := site.Data.nav }}
+<nav class="navbar is-fixed-top" role="navigation" aria-label="main-navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">
+      <img src="/images/logos/leaf.png">
+    </a>
+    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarItems">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+  </div>
+  <div id="navbarItems" class="navbar-menu">
+    <div class="navbar-start">
+      {{- range $links }}
+        {{- if .url }}
+          <a class="navbar-item" href="{{ .url }}">{{ .name }}</a>
+        {{- else }}
+          <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" href="{{ .headerUrl }}">{{ .headerName }}</a>
+            <div class="navbar-dropdown">
+              {{- range .headerValues }}
+              <a class="navbar-item" href="{{.url}}" target="_blank">{{.name}}</a>
+              {{- end}}
+            </div>
+          </div>
+        {{- end }}
+      {{- end }}
+    </div>
+  </div>
+</nav>
+

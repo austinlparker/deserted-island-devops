@@ -1,0 +1,13 @@
+# Hugo-generated assets
+public/
+resources/
+
+# npm assets
+node_modules/
+
+# ignore themes
+themes/
+
+# Link checker
+bin/
+tmp/

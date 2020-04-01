@@ -8,7 +8,7 @@ hrefTargetBlank = true
 [params]
 tagline = "Deserted Island DevOps"
 sub_tagline = "The Greatest Minds in DevOps... in Animal Crossing."
-sub_description = "Join us later this April for a one-day event celebrating DevOps and Animal Crossing, streaming live on twitch.tv!"
+sub_description = "Join us April 30th for a free one-day event celebrating DevOps and Animal Crossing, streaming live on twitch.tv!"
 font_awesome_version = "5.8.1"
 
 [params.logos]

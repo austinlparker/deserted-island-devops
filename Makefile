@@ -9,13 +9,13 @@ serve: setup
 		--buildDrafts \
 		--buildFuture
 
-preview-build: get-milestones
+preview-build:
 	hugo \
 		--baseURL $(DEPLOY_PRIME_URL) \
 		--minify
 	make ci-link-check
 
-production-build: get-milestones
+production-build:
 	hugo \
 		--minify
 	make ci-link-check

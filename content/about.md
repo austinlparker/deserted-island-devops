@@ -28,6 +28,6 @@ If you're interested in this, please [tweet at me](http://twitter.com/austinlpar
 
 We're still figuring that out, but basically anything in the 'DevOps' field. Generally, I'm thinking that things should be on the shorter side (30 minutes including Q&A at the end), and pretty breezy. I mean, it's a DevOps conference inside Animal Crossing -- we're trying to have some fun here, y'know?
 
-## Accessibility, Diversity, Inclusion, and Code of Conduct
+## Accessibility and Code of Conduct
 
-Since this event is fully virtual, we should be able to provide (machine-assisted) closed captioning. Before we actually schedule this, a D&I and CoC will be posted on this site.
+We'll strive to provide closed captioning (machine translation) on the stream. Please find our [Code of Conduct](/coc) here. 

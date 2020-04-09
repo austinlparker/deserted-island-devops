@@ -15,36 +15,6 @@ mainSections = ["messages"]
 [params.logos]
 hero = "di_logo_big.png"
 
-[[params.social]]
-name = "GitHub"
-url = "https://github.com/open-telemetry/"
-color = "black"
-icon = "fab fa-github"
-
-[[params.social]]
-name = "Twitter"
-url = "https://twitter.com/opentelemetry"
-color = "twitter"
-icon = "fab fa-twitter"
-
-[[params.social]]
-name = "Gitter"
-url = "https://gitter.im/open-telemetry/community"
-color = "gitter"
-icon = "fab fa-gitter"
-
-[[params.social]]
-name = "Medium"
-url = "https://medium.com/opentelemetry"
-color = "light"
-icon = "fab fa-medium"
-
-[[params.social]]
-name = "Mailing list"
-url = "https://lists.cncf.io/g/cncf-opentelemetry-community"
-color = "info"
-icon = "far fa-envelope"
-
 [[params.fonts]]
 name = "Noto Sans"
 sizes = [300,400,600,700]

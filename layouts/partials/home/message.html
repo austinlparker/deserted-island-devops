@@ -1,0 +1,30 @@
+<section class="messages">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-full messageCard">
+      {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+      {{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true ) }}
+      {{ range $paginator.Pages }}
+        
+          <article class="media">
+            <figure class="media-left">
+              <p class="image is-128x128 is-rounded">
+               <img class="is-rounded" src="/images/ap_headshot.png">
+              </p>
+            </figure>
+            <div class="media-content">
+              <div class="content">
+                <p>
+                  <strong>{{.Title}}</strong> <small>{{.Params.author}} - Posted {{ dateFormat "Jan 2, 2006" .Date }}</small>
+                  <br>
+                  {{ .Content }}
+                </p>
+              </div>
+            </div>
+          </article>
+        
+      {{ end }}
+    </div>
+    </div>
+  </div>
+</section>

@@ -9,3 +9,4 @@ If you'd like to discuss this with the organizers, please email info at deserted
 **We'd like to thank...**
 
 [![Lightstep](/images/sponsorlogo/lightstep.png)](https://www.lightstep.com)
+[![ServerlessOps](/images/sponsorlogo/serverlessops.png)](https://www.serverlessops.com)

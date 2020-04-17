@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-Deserted Island DevOps is a single-day virtual event, to be livestreamed on twitch.tv at an upcoming date. All presentations will take place in the world of Animal Crossing: New Horizons.
+Deserted Island DevOps is a single-day virtual event, to be livestreamed on twitch.tv/oncallmemaybe on April 30th, 2020. All presentations will take place in the world of Animal Crossing: New Horizons.
 
 ## What?
 

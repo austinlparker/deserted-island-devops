@@ -23,8 +23,18 @@
                 <div class="content">
                   <p>
                     <strong class="is-size-4">{{ .Params.title }}</strong> <br />
-                    <i class="is-size-5">{{.Params.speaker}}</i>
-                    {{ .Content }}
+                    <i class="is-size-5">{{.Params.speaker}} | {{ .Params.twitter }}</i> 
+                    <div class="columns">
+                      <div class="column is-half">
+                        <strong>Abstract</strong>
+                        {{ .Content }}
+                      </div>
+                      <div class="column is-half">
+                        <strong>Speaker Biography</strong>
+                        <br />
+                        {{ .Params.bio }}
+                      </div>
+                    </div>
                   </p>
                 </div>
                 <nav class="level is-mobile">

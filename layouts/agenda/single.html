@@ -1,0 +1,47 @@
+{{ define "title" }}Deserted Island {{ .Section }} &ndash; {{ .Title }}{{ end }}
+
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+    <h1 class="title">{{ .Title }}</h1>
+    <div class="content">
+      {{ .Content }}
+    </div>
+    <section class="talks">
+      <div class="columns">
+        <div class="column is-full">
+          {{ $talks := where .Site.RegularPages "Type" "talk" }}
+          {{ range $talks }}
+
+            <article class="media">
+              <figure class="media-left">
+                <p class="image is-128x128 is-rounded">
+                  <img class="is-rounded" src="{{ .Params.picture }}">
+                </p>
+              </figure> 
+              <div class="media-content">
+                <div class="content">
+                  <p>
+                    <strong class="is-size-4">{{ .Params.title }}</strong> <br />
+                    <i class="is-size-5">{{.Params.speaker}}</i>
+                    {{ .Content }}
+                  </p>
+                </div>
+                <nav class="level is-mobile">
+                  <div class="level-left">
+                    <p class="level-item">
+                      <span class="icon is-small"><i class="fas fa-clock"></i> &nbsp;{{ .Params.time }} </span>
+                    </p>
+                  </div>
+                </nav>
+              </div>
+            </article>
+
+          {{ end }}
+        </div>
+      </div>
+    </section>
+  </div>
+</section>
+
+{{ end }}

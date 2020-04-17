@@ -1,6 +1,6 @@
 ---
 title: "Sticking Together while Staying Apart: Resilience in the time of global pandemic"
-speaker: "Aaron Aldrich "
+speaker: "Aaron Aldrich (Advocate @ LaunchDarkly)"
 time: TBD
 picture: /images/agenda/aaron_ac.png
 type: talk

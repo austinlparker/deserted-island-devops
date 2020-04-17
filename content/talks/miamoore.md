@@ -1,6 +1,6 @@
 ---
 title: "Building Virtual Community"
-speaker: "Mia Moore"
+speaker: "Mia Moore (Developer Advocate @ IBM)"
 time: TBD
 picture: /images/agenda/mia_ac.png
 type: talk

@@ -1,6 +1,6 @@
 ---
 title: "You’ve Convinced Me We Have To Collaborate — But How The Hell Do We Deal With People?"
-speaker: "Matt Stratton"
+speaker: "Matt Stratton (Transformation Specialist @ Red Hat)"
 time: TBD
 picture: /images/agenda/matt_ac.png
 type: talk

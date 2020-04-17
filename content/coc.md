@@ -26,10 +26,10 @@ We expect participants to follow these rules at conference and workshop venues a
 
 ## Enforcement and Reporting
 
-To report a violation of the code of conduct, please message a channel moderator immediately for assistance. You can also email coc at desertedisland.club.
+To report a violation of the code of conduct, please message a channel moderator immediately for assistance. You can also email coc at desertedisland.club. You can also DM an organizer in our Discord chat (they're the people who have the 'organizer' role) for assistance.
 
 ## Additional Details
 
-In addition to the general and specific guidelines above, your conduct as an attendee/viewer are also bound by the twitch.tv [community guidelines](https://www.twitch.tv/p/legal/community-guidelines/). Violations of the Twitch Community Guidelines may result in an account suspension or termination.
+In addition to the general and specific guidelines above, your conduct as an attendee/viewer are also bound by the twitch.tv [community guidelines](https://www.twitch.tv/p/legal/community-guidelines/). Violations of the Twitch Community Guidelines may result in an account suspension or termination. This Code of Conduct also applies to interactions in the events Discord server.
 
 This Code of Conduct is adapted from the [Conference Code of Conduct](https://confcodeofconduct.com) and adapted under the terms of CC BY 3.0

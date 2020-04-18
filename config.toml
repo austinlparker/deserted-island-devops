@@ -1,6 +1,7 @@
 title = "Deserted Island DevOps"
 baseURL = "https://desertedisland.club"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+description = "Deserted Island DevOps is a one-day virtual event set in the world of Animal Crossing: New Horizons! Catch it live on twitch.tv/oncallmemaybe, 4/30/20 at 10 AM ET!"
 
 [blackfriday]
 hrefTargetBlank = true

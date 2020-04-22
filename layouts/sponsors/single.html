@@ -1,0 +1,21 @@
+{{ define "title" }}Deserted Island {{ .Section }} &ndash; {{ .Title }}{{ end }}
+
+{{ define "main" }}
+<section class="section">
+  <div class="container">
+    <h1 class="title">{{ .Title }}</h1>
+    <div class="content">
+        {{ .Content }}
+      <div class="columns is-vcentered is-multiline">
+        {{ $s := where .Site.RegularPages "Type" "sponsor" }}
+        {{ range $s }}
+          <div class="column is-4">
+            <a href="https://{{ .Params.url }}"><img src="{{ .Params.logo }}"></a>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

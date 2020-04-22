@@ -22,7 +22,9 @@ Presenters will need a copy of Animal Crossing: New Horizons for the Nintendo Sw
 
 ![Proof-of-concept image for the audience view.](/images/concept.png)
 
-Production will switch between the small version of the slides and a full-screen version so that the audience will be able to actually read the text.
+Production will switch between the small version of the slides and a full-screen version so that the audience will be able to actually read the text. It'll look a lot like the video in this tweet!
+
+{{< tweet 1252987847809937408 >}}
 
 ## This is right up my alley!
 
@@ -30,7 +32,7 @@ If you're interested in this, please [tweet at me](http://twitter.com/austinlpar
 
 ## When is this happening?
 
-We'll go live on April 30th, 2020 at around 10 AM Eastern Time. The event will run until around 2 PM Eastern Time. There _will_ be a recording of the event, if you can't make it live.
+We'll go live on April 30th, 2020 at around 10 AM Eastern Time. The event will run until around 4 PM Eastern Time. There _will_ be a recording of the event, if you can't make it live.
 
 ## What sort of talks would you want to run?
 
@@ -38,7 +40,7 @@ Talks should be between 15 and 25 minutes, with or without slides. The usage of 
 
 ## Accessibility and Code of Conduct
 
-We'll strive to provide closed captioning (machine translation) on the stream. Please find our [Code of Conduct](/coc) here. 
+We'll strive to provide closed captioning on the stream. Please find our [Code of Conduct](/coc) here. 
 
 ## Acknowledgements
 

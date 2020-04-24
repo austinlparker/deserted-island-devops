@@ -2,7 +2,7 @@
 title: "Sticking Together while Staying Apart: Resilience in the time of global pandemic"
 speaker: "Aaron Aldrich (Advocate @ LaunchDarkly)"
 time: TBD
-picture: /images/agenda/aaron_ac.png
+picture: aaron_ac
 twitter: "crayzeigh"
 type: talk
 bio: "Aaron Aldrich is a Developer Advocate at LaunchDarkly and a founding organizer of DevOpsDays Hartford and organizer of DevOpsDays NYC. He is passionate about the connection points of humans and technology and how we can consistently use one to help the other. Find him online @crayzeigh on twitter or crayzeigh.com"

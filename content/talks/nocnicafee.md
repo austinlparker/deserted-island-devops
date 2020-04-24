@@ -2,7 +2,7 @@
 title: "No Dev is an Island: How to do serverless together"
 speaker: "Nočnica Fee (Developer Advocate @ New Relic)"
 time: TBD
-picture: /images/agenda/nocnica_ac.png
+picture: nocnica_ac
 twitter: "nocnicafee"
 type: talk
 bio: "Nočnica Fee is a serverless developer advocate with New Relic. In her spare time, she enjoys hardware hacking and hand sewing. She’s the author of numerous articles and essays on serverless technology and culture, and writes regularly for The New Stack. She dislikes tarantulas no matter what they’re worth."

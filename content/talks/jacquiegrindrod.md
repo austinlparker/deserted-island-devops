@@ -2,7 +2,7 @@
 title: "You Will Not Go To Space Today"
 speaker: "Jacquie Grindrod (Developer Advocate @ HashiCorp)"
 time: TBD
-picture: /images/agenda/jacquie_ac.png
+picture: jacquie_ac
 twitter: "devopsjacquie"
 type: talk
 bio: "Jacquie Grindrod is a developer advocate for HashiCorp where she’s able to apply her passion for solving problems with a holistic approach by bridging the gaps between teams and systems. From making making healthcare accessible to creating a winning networking application for women in tech at ElleHacks 2018, Jacquie works to collaborate and empower communities around her. In 2019, Jacquie was recognized as Canada's Top 30 Under 30 Developers and spoke at DevOpsDays Toronto. A notable ACNH moment for her was shouting 'Yay I finally paid off my house loan!' to which her partner promptly responded 'why do you even play this game??'"

@@ -2,7 +2,7 @@
 title: "Snakes on a Car"
 speaker: "Kat Cosgrove (Developer Advocate @ JFrog)"
 time: TBD
-picture: /images/agenda/kat_ac.png
+picture: kat_ac
 twitter: "dixie3flatline"
 type: talk
 bio: "Kat Cosgrove is a chronic early-adopter of new technologies and a real-life cyborg. Her professional engineering background is in web development, IoT, and programming education, but today she's a Developer Advocate for JFrog. She loves finding creative solutions for hard problems, especially if they're a little hacky.

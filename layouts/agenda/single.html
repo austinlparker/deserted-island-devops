@@ -1,6 +1,7 @@
 {{ define "title" }}Deserted Island {{ .Section }} &ndash; {{ .Title }}{{ end }}
 
 {{ define "main" }}
+{{ $headless := .Resources }}
 <section class="section">
   <div class="container">
     <h1 class="title">{{ .Title }}</h1>
@@ -11,13 +12,16 @@
       <div class="columns">
         <div class="column is-full messageCard">
           {{ $talks := where .Site.RegularPages "Type" "talk" }}
-          {{ range $talks }}
+          {{ range $talk := $talks }}
 
             <article class="media">
               <figure class="media-left">
                 <a class="anchor" id="{{ .File.TranslationBaseName }}"></a>
                 <p class="image is-128x128 is-rounded">
-                  <img class="is-rounded" src="{{ .Params.picture }}">
+                  {{ with $icon := $headless.GetMatch .Params.picture }}
+                  {{ $resize := $icon.Resize "128x128 jpg q100" }}
+                  <img class="is-rounded" src="{{ $resize.RelPermalink }}">
+                  {{end}}
                 </p>
               </figure> 
               <div class="media-content">

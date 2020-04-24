@@ -2,7 +2,7 @@
 title: "Mob Programming From Home: A Case Study in Teaching Cloud Migration From YOUR Island Getaway"
 speaker: "Tori Chu (Developer Specialist @ Nationwide)"
 time: TBD
-picture: /images/agenda/tori_ac.png
+picture: tori_ac
 twitter: "f00handle"
 type: talk
 bio: "Tori is a Developer Specialist at Nationwide. She and her teammates coach development teams as they begin their DevOps journey to cloud offerings. Other interests include: dance, sci fi, Overwatch, FFXIV. She also made the #DIDevOps conference swag and an elaborate boba stand in Animal Crossing."

@@ -20,7 +20,7 @@ It's 100% legit.
 
 Presenters will need a copy of Animal Crossing: New Horizons for the Nintendo Switch. You'll be given a Dodo Code (along with up to 7 other co-presenters/audience members) that you'll use to connect to the designated island at a specified time. In addition, you'll dial into a Zoom call. The producers will be streaming both the ACNH island in addition to the slides being presented over the Zoom call to Twitch. It'll look something like the following:
 
-![Proof-of-concept image for the audience view.](/images/concept.png)
+![What viewers will see.](/images/stream_example.jpg)
 
 Production will switch between the small version of the slides and a full-screen version so that the audience will be able to actually read the text. It'll look a lot like the video in this tweet!
 
@@ -34,13 +34,17 @@ If you're interested in this, please [tweet at me](http://twitter.com/austinlpar
 
 We'll go live on April 30th, 2020 at around 10 AM Eastern Time. The event will run until around 4 PM Eastern Time. There _will_ be a recording of the event, if you can't make it live.
 
-## What sort of talks would you want to run?
+## I can't attend live, will the event be recorded?
 
-Talks should be between 15 and 25 minutes, with or without slides. The usage of in-game props is encouraged, if possible. This event aims to highlight the creativity and playfulness of DevOps, but we're also absolutely OK with talks about tools as well. You should go a little wild -- I mean, it's a tech conference inside Animal Crossing. Get weird. More details about submitting a talk can be found at [our Call for Papers](https://sessionize.com/deserted-island-devops/) at Sessionize.
+Yes! The event will be recorded and posted for you to watch on-demand.
+
+## How can I participate in Q&A and chat with other attendees?
+
+Please check the [message archive](https://tinyletter.com/DesertedIslandDevOps/archive) for an invite URL to our Discord. We'll also use this for important day-of notifications, so be sure to join!
 
 ## Accessibility and Code of Conduct
 
-We'll strive to provide closed captioning on the stream. Please find our [Code of Conduct](/coc) here. 
+Closed captioning provided by [White Coat Captioning](https://whitecoatcaptioning.com/), proudly sponsored by [Lightstep](https://lightstep.com/). Please find our [Code of Conduct](/coc) here. 
 
 ## Acknowledgements
 

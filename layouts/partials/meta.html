@@ -1,6 +1,6 @@
 {{ $title       := site.Title }}
 {{ $description := site.Params.tagline }}
-{{ $favicon     := "favicon.png" | absURL }}
+{{ $favicon     := "favicon.ico" | absURL }}
 {{ $image       := "images/di_small_logo.png" | absURL }}
 <meta charset="utf-8">
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
@@ -23,11 +23,11 @@
 <!-- Twitter Card metadata -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="{{ $title }}">
-<meta name="twitter:site" content="@OpenTelemetry">
+<meta name="twitter:site" content="@DIDevOps">
 <meta name="twitter:description" content="{{ $description }}">
-<meta name="twitter:creator" content="@OpenTelemetry">
+<meta name="twitter:creator" content="@DIDevOps">
 <meta name="twitter:image" content="{{ $image }}">
 
 <link rel="canonical" href="{{ .Permalink }}">
-<link rel="shortcut icon" href="{{ $favicon }}" type="image/png">
+<link rel="shortcut icon" href="{{ $favicon }}" type="image/ico">
 {{ hugo.Generator }}

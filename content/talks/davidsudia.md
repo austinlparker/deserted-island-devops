@@ -1,11 +1,15 @@
 ---
 title: "If You Can Wait 6 Months, You Should"
 speaker: "David Sudia (Senior Swiss-Army Knife @ GoSpotCheck)"
-time: TBD
+time: "11:00"
 picture: david_ac
 twitter: "thedevelopnik"
 type: talk
 bio: "David Sudia is a former educator turned developer turned DevOps Engineer. He's passionate about supporting other developers in doing their best work by making sure they have the right tools and environments. In his day to day he's responsible for managing Kubernetes clusters, deploying databases, writing utility apps, and generally being a Swiss-Army knife. David has co-organized a Cloud Native Meetup and presents regularly on the experience of migrating to Kubernetes."
+weight: -8
+prebreak: true
+breaktitle: "Break"
+breaklen: "15m"
 ---
 
 Or, how the real-time nature of Animal Crossing informs DevOps practices.

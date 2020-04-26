@@ -1,5 +1,5 @@
 ---
-title: "You’ve Convinced Me We Have To Collaborate — But How The Hell Do We Deal With People?"
+title: "Kick Em or Keep Em - Collaborating on our own Deserted Islands"
 speaker: "Matt Stratton (Transformation Specialist @ Red Hat)"
 time: "2:30"
 picture: matt_ac

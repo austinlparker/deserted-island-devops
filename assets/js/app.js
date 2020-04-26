@@ -1,10 +1,7 @@
-function navbarToggle() {
-  $('.navbar-burger').click(function() {
-    $('.navbar-burger').toggleClass('is-active');
-    $('.navbar-menu').toggleClass('is-active');
-  });
-}
+let navbar = document.getElementById("navbar-burger");
+let navbarMenu = document.getElementById("navbarItems");
 
-$(function() {
-  navbarToggle();
-});
+navbar.addEventListener("click", function() {
+  navbar.classList.toggle("is-active");
+  navbarMenu.classList.toggle("is-active");
+})

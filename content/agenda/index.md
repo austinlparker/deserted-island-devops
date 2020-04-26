@@ -9,6 +9,8 @@ resources:
     src: images/aaron_ac.png
   - name: adrienne_ac
     src: images/adrienne_ac.png
+  - name: austin_ac
+    src: images/austin_ac.png
   - name: david_ac
     src: images/david_ac.png
   - name: ian_ac
@@ -29,4 +31,5 @@ resources:
     src: images/tori_ac.png
 ---
 
-This is the published schedule and agenda for Deserted Island DevOps. Check back for more speakers as we get closer to the event!
+This is the published schedule and agenda for Deserted Island DevOps. 
+#### All Times Eastern US

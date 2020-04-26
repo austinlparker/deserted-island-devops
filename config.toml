@@ -14,7 +14,7 @@ font_awesome_version = "5.8.1"
 mainSections = ["messages"]
 
 [params.logos]
-hero = "di_logo_big.png"
+hero = "logos/di_logo_big.png"
 
 [[params.fonts]]
 name = "Noto Sans"

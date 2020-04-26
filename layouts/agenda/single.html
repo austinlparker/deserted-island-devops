@@ -54,7 +54,13 @@
                 <a href="#{{.File.TranslationBaseName}}"><span class="icon is-small"><i class="fas fa-link"></i></span></a>
               </div>
             </article>
-
+            {{ if isset .Params "prebreak" }}
+            <article class="media">
+              <div class="media-content has-text-centered">
+                <strong class="is-size-4">{{ .Params.breaktitle }} - {{ .Params.breaklen }}</strong>
+              </div>
+            </article>
+            {{ end }}
           {{ end }}
         </div>
       </div>

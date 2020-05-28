@@ -1,7 +1,9 @@
 - name: About
   url: "/about"
+- name: Deserted Island Sessions
+  url: "/sessions"
 - name: Register
-  url: "https://tinyletter.com/DesertedIslandDevOps"
+  url: "/registration"
 - name: Agenda
   url: "/agenda"
 - name: Code of Conduct

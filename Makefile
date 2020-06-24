@@ -5,7 +5,7 @@ setup:
 	npm install
 
 serve: setup
-	hugo server \
+	hugo server --port 30000 \
 		--buildDrafts \
 		--buildFuture
 

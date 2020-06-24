@@ -1,0 +1,18 @@
+{{ $image := .Get "image" }}
+{{ $title := .Get "title" }}
+{{ $time := .Get "time" }}
+{{ $desc := .Get "desc" }}
+<article class="media">
+  <figure class="media-left">
+    <p class="image">
+      <img src="{{$image}}">
+    </p>
+  </figure>
+  <div class="media-content">
+    <div class="content">
+      <p><strong>{{$title}}</strong> <br><small>{{$time}}</small></p>
+    <br>
+    {{ $desc }}
+    </div>
+  </div>
+</article>

@@ -9,9 +9,9 @@ This page has all the information you'll need about Deserted Island Sessions, a 
 
 {{< session image="/images/sessions/card1.jpeg" title="Distributed Tracing In Practice Author Panel" time="6/29 - 12:00 PM PT / 3:00 PM ET" desc="Join the authors of Distributed Tracing in Practice (Austin Parker, Daniel Spoonhower, Jonathan Mace, and Rebecca Isaacs) for an hour-long discussion about the book! Attendees will have a chance to win a free copy!" >}}
 
-{{< session image="/images/sessions/devseaopscard.png" title="DevSeaOps" time="TBA" desc="Can four DevOps pros figure out how to sail a (virtual) ship in the pursuit of fame, glory, and treasure? We'll see!">}}
+{{< session image="/images/sessions/devseaops-social.png" title="DevSeaOps" time="7/31 - 8 PM ET / 5 PM PT" desc="Can four DevOps pros figure out how to sail a (virtual) ship in the pursuit of fame, glory, and treasure? We'll see!">}}
 
-{{< session image="/images/sessions/mystery.jpg" title="More sessions to be announced soon!">}}
+{{< session image="/images/sessions/dido_summer_speakers.png" title="Summer Send-Off" time="8/28 - 12 PM ET / 9 AM PT" desc="We're wrapping up the summer with four more talks from the deserted island! Join Shelby Spees, Rich Burroughs, Fred Hebert, and the creator of Simpsons Against DevOps for one last round of great talks, streamed live on twitch.tv!" >}}
 
 # About
 Ready to come back to the island?

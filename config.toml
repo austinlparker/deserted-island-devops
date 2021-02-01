@@ -1,15 +1,15 @@
 title = "Deserted Island DevOps"
 baseURL = "https://desertedisland.club"
 disableKinds = ["taxonomy", "taxonomyTerm"]
-description = "Deserted Island DevOps is a one-day virtual event set in the world of Animal Crossing: New Horizons! Catch it live on twitch.tv/oncallmemaybe, 4/30/20 at 10 AM ET!"
+description = "Deserted Island DevOps 2021 is coming 4/30/21!"
 
 [blackfriday]
 hrefTargetBlank = true
 
 [params]
 tagline = "Deserted Island DevOps"
-sub_tagline = "The best minds in technology, live from Animal Crossing!"
-sub_description = "Free live streams of great tech talks, tutorials, and everything else you need for your DevOps journey."
+sub_tagline = "Deserted Island DevOps 2021"
+sub_description = "Coming 4/30/21, streaming live on twitch.tv!"
 font_awesome_version = "5.8.1"
 mainSections = ["messages"]
 

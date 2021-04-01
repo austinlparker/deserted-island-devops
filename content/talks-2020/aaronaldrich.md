@@ -5,6 +5,7 @@ time: "3:45"
 picture: aaron_ac
 twitter: "crayzeigh"
 type: talk
+year: "2020"
 bio: "Aaron Aldrich is a Developer Advocate at LaunchDarkly and a founding organizer of DevOpsDays Hartford and organizer of DevOpsDays NYC. He is passionate about the connection points of humans and technology and how we can consistently use one to help the other. Find him online @crayzeigh on twitter or crayzeigh.com"
 weight: -1
 ---

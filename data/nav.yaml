@@ -1,7 +1,5 @@
 - name: About
   url: "/about"
-- name: Deserted Island Sessions
-  url: "/sessions"
 - name: Register
   url: "/registration"
 - name: Agenda
@@ -10,3 +8,5 @@
   url: "/coc"
 - name: Sponsors
   url: "/sponsors"
+- name: Archive
+  url: "/archive"

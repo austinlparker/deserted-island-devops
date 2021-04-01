@@ -5,6 +5,7 @@ time: "11:00"
 picture: david_ac
 twitter: "thedevelopnik"
 type: talk
+year: "2020"
 bio: "David Sudia is a former educator turned developer turned DevOps Engineer. He's passionate about supporting other developers in doing their best work by making sure they have the right tools and environments. In his day to day he's responsible for managing Kubernetes clusters, deploying databases, writing utility apps, and generally being a Swiss-Army knife. David has co-organized a Cloud Native Meetup and presents regularly on the experience of migrating to Kubernetes."
 weight: -8
 prebreak: true

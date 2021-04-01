@@ -2,21 +2,15 @@
 title = "About"
 +++
 
-Deserted Island DevOps is a single-day virtual event, to be livestreamed on twitch.tv/oncallmemaybe on April 30th, 2020. All presentations will take place in the world of Animal Crossing: New Horizons.
+Deserted Island DevOps is a single-day virtual event, to be livestreamed on twitch.tv/desertedislandtv on April 30th, 2021. All presentations will take place in the world of Animal Crossing: New Horizons.
 
-## What?
+As this is a community event that's free to attend, we encourage viewers or anyone that gets something out of the talks to make a donation to the conference's preferred charity, [The Trevor Project](https://www.thetrevorproject.org/). 
 
-Seriously.
+## History
 
-## Seriously, What?
+Deserted Island DevOps started in 2020 with the goal of presenting a virtual conference that wasn't just another really long Zoom call. 
 
-Says what it is on the tin, bucko.
-
-## You posted this on April 1st.
-
-It's 100% legit.
-
-## Ok, uh, how does this work?
+## How does it work for presenters?
 
 Presenters will need a copy of Animal Crossing: New Horizons for the Nintendo Switch. You'll be given a Dodo Code (along with up to 7 other co-presenters/audience members) that you'll use to connect to the designated island at a specified time. In addition, you'll dial into a Zoom call. The producers will be streaming both the ACNH island in addition to the slides being presented over the Zoom call to Twitch. It'll look something like the following:
 
@@ -26,25 +20,27 @@ Production will switch between the small version of the slides and a full-screen
 
 {{< tweet 1252987847809937408 >}}
 
-## This is right up my alley!
+## FAQ
 
-If you're interested in this, please [tweet at me](http://twitter.com/austinlparker) to let me know. You can also register for the event [here](https://tinyletter.com/DesertedIslandDevOps)!
+* If I'm just watching, do I need a Switch?
 
-## When is this happening?
+You don't need a Switch or Animal Crossing in order to view and participate in the event! Tune into the stream when it's live and join the Discord server to chat with other attendees!
 
-We'll go live on April 30th, 2020 at around 10 AM Eastern Time. The event will run until around 4 PM Eastern Time. There _will_ be a recording of the event, if you can't make it live.
+* Are the sessions recorded?
 
-## I can't attend live, will the event be recorded?
+Yes, we'll be recording and posting everything to YouTube after the event.
 
-Yes! The event will be recorded and posted for you to watch on-demand.
+* Will there be closed captioning?
 
-## How can I participate in Q&A and chat with other attendees?
+Yes, closed captioning will be available.
 
-Please check the [message archive](https://tinyletter.com/DesertedIslandDevOps/archive) for an invite URL to our Discord. We'll also use this for important day-of notifications, so be sure to join!
+* Do I need to register?
 
-## Accessibility and Code of Conduct
+Registration isn't required, but it's recommended. Sign up [here](/registration) so we can send you emails.
 
-Closed captioning provided by [White Coat Captioning](https://whitecoatcaptioning.com/), proudly sponsored by [Lightstep](https://lightstep.com/). Please find our [Code of Conduct](/coc) here. 
+## Code of Conduct
+
+Please find our [Code of Conduct](/coc) here. 
 
 ## Acknowledgements
 

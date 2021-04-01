@@ -2,6 +2,7 @@
 
 {{ define "main" }}
 {{ $headless := .Resources }}
+{{ $agendaYear := .Params.year }}
 <section class="section">
   <div class="container">
     <h1 class="title">{{ .Title }}</h1>
@@ -12,7 +13,8 @@
       <div class="columns">
         <div class="column is-full messageCard">
           {{ $talks := where .Site.RegularPages "Type" "talk" }}
-          {{ range $talk := $talks }}
+          {{ $filteredTalks := where $talks ".Params.year" "eq" $agendaYear }}
+          {{ range $talk := $filteredTalks }}
 
             <article class="media">
               <figure class="media-left">

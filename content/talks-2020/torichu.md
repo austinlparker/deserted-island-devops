@@ -5,6 +5,7 @@ time: "12:15"
 picture: tori_ac
 twitter: "f00handle"
 type: talk
+year: "2020"
 bio: "Tori is a Developer Specialist at Nationwide. She and her teammates coach development teams as they begin their DevOps journey to cloud offerings. Other interests include: dance, sci fi, Overwatch, FFXIV. She also made the #DIDevOps conference swag and an elaborate boba stand in Animal Crossing."
 weight: -6
 prebreak: true

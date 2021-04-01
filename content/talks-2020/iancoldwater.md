@@ -5,6 +5,7 @@ time: "10:05"
 picture: ian_ac
 twitter: "IanColdwater"
 type: talk
+year: "2020"
 bio: "Ian Coldwater is a grown teenage hacker turned Lead Platform Security Engineer at Heroku, who specializes in hacking and hardening Kubernetes, containers and cloud-native infrastructure. In Animal Crossing, Ian runs The Cloud out of their basement data center. In real life, Ian lives in Minneapolis and tweets @IanColdwater."
 weight: -10
 ---

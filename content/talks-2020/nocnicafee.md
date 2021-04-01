@@ -5,6 +5,7 @@ time: "10:30"
 picture: nocnica_ac
 twitter: "nocnicafee"
 type: talk
+year: "2020"
 bio: "Nočnica Fee is a serverless developer advocate with New Relic. In her spare time, she enjoys hardware hacking and hand sewing. She’s the author of numerous articles and essays on serverless technology and culture, and writes regularly for The New Stack. She dislikes tarantulas no matter what they’re worth."
 weight: -9
 ---

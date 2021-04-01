@@ -5,6 +5,7 @@ time: "11:45"
 picture: mia_ac
 twitter: "xomiamoore"
 type: talk
+year: "2020"
 bio: "Mia Moore (they/she) is a Developer Advocate at IBM focusing on IBM Cloud and Kubernetes. They also run the IBM Developer Twitch channel at twitch.tv/ibmdeveloper. Previous roles include content creation and community management, and they are enthusiastic about good storytelling in digital content. They have played Animal Crossing games since the Gamecube and have already invested an embarrassing amount of hours into the latest iteration. Aside from Animal Crossing, Mia enjoys knitting, birding, and figuring out what to do with their sourdough discards."
 weight: -7
 ---

@@ -1,9 +1,10 @@
 ---
-title: "Agenda"
-date: "2021-03-31"
+title: "Agenda 2020"
+date: "2020-03-31"
 author: "Austin Parker"
 description: "Agenda and other information!"
 type: "agenda"
+year: "2020"
 resources:
   - name: aaron_ac
     src: images/aaron_ac.png

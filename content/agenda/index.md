@@ -4,32 +4,31 @@ date: "2021-03-31"
 author: "Austin Parker"
 description: "Agenda and other information!"
 type: "agenda"
+year: "2021"
 resources:
-  - name: aaron_ac
-    src: images/aaron_ac.png
-  - name: adrienne_ac
-    src: images/adrienne_ac.png
-  - name: austin_ac
-    src: images/austin_ac.png
-  - name: david_ac
-    src: images/david_ac.png
-  - name: ian_ac
-    src: images/ian_ac.png
-  - name: jacquie_ac
-    src: images/jacquie_ac.png
-  - name: kat_ac
-    src: images/kat_ac.png
-  - name: katy_ac
-    src: images/katy_ac.png
-  - name: matt_ac
-    src: images/matt_ac.png
-  - name: mia_ac
-    src: images/mia_ac.png
-  - name: nocnica_ac
-    src: images/nocnica_ac.png
-  - name: tori_ac
-    src: images/tori_ac.png
+  - name: chloe_ac
+    src: images/chloe_ac.png
+  - name: ryn_ac
+    src: images/ryn_ac.jpg
+  - name: serena_ac
+    src: images/serena_ac.jpg
+  - name: laura_ac
+    src: images/laura_ac.jpg
+  - name: kiran_ac
+    src: images/kiran_ac.jpeg
+  - name: jack_ac
+    src: images/jack_ac.jpeg
+  - name: emily_ac
+    src: images/emily_ac.jpg
+  - name: arriana_ac
+    src: images/arriana_ac.jpg
+  - name: angelina_ac
+    src: images/angelina_ac.JPG
+  - name: amy_ac
+    src: images/amy_ac.jpeg
+  - name: alanna_ac
+    src: images/alanna_ac.JPG
 ---
 
-This is the published schedule and agenda for Deserted Island DevOps. 
+This is the published schedule and agenda for Deserted Island DevOps 2021. Pre-show starts at 11:45 AM ET.
 #### All Times Eastern US

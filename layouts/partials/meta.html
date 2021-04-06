@@ -1,7 +1,7 @@
 {{ $title       := site.Title }}
 {{ $description := site.Params.tagline }}
-{{ $favicon     := "favicon.ico" | absURL }}
-{{ $image       := "images/di_small_logo.png" | absURL }}
+{{ $favicon     := "images/leaf_new.svg" | absURL }}
+{{ $image       := "images/leaf_new.svg" | absURL }}
 <meta charset="utf-8">
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
 <meta name="description" content="{{ $description }}" />
@@ -29,5 +29,5 @@
 <meta name="twitter:image" content="{{ $image }}">
 
 <link rel="canonical" href="{{ .Permalink }}">
-<link rel="shortcut icon" href="{{ $favicon }}" type="image/ico">
+<link rel="shortcut icon" href="{{ $favicon }}" type="image/svg+xml">
 {{ hugo.Generator }}

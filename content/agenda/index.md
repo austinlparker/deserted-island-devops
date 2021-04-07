@@ -28,6 +28,8 @@ resources:
     src: images/amy_ac.jpeg
   - name: alanna_ac
     src: images/alanna_ac.JPG
+  - name: ana_ac
+    src: images/ana_ac.jpg
 ---
 
 This is the published schedule and agenda for Deserted Island DevOps 2021. Pre-show starts at 11:45 AM ET.

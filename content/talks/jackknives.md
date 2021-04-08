@@ -1,6 +1,6 @@
 ---
 title: "The Long Game"
-speaker: "Jack Farzan (Lead DevOps Engineer @ Moda Operandi)"
+speaker: "Jack Knives (Lead DevOps Engineer @ Moda Operandi)"
 time: "TBD"
 picture: jack_ac
 twitter: "weirdoqueen"

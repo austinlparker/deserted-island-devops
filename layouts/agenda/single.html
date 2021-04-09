@@ -24,13 +24,25 @@
                   {{ $resize := $icon.Resize "128x128 jpg q100" }}
                   <img class="is-rounded" src="{{ $resize.RelPermalink }}">
                   {{end}}
+                  {{ if isset .Params "picture2" }}
+                    {{ with $icon2 := $headless.GetMatch .Params.picture2 }}
+                    {{ $resize2 := $icon2.Resize "128x128 jpg q100" }}
+                    <br />
+                    <img class="is-rounded" src="{{ $resize2.RelPermalink }}">
+                    {{ end }}
+                  {{ end }}
                 </p>
               </figure> 
               <div class="media-content">
                 <div class="content">
                   <p>
                     <strong class="is-size-4">{{ .Params.title }}</strong> <br />
-                    <i class="is-size-5">{{.Params.speaker}} | <a href="https://twitter.com/{{.Params.twitter}}">@{{ .Params.twitter }}</a></i> 
+                    <i class="is-size-5">{{.Params.speaker}} | <a href="https://twitter.com/{{.Params.twitter}}">@{{ .Params.twitter }}</a>
+                    {{ if isset .Params "twitter2" }}
+                    | <a href="https://twitter.com/{{.Params.twitter2}}">@{{ .Params.twitter2 }}</a>
+                    {{ end }}
+                    </i> 
+                    
                     <div class="columns">
                       <div class="column is-half">
                         <strong>Abstract</strong>

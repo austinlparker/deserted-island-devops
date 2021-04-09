@@ -2,8 +2,10 @@
 title: "DevOps for High Schoolers?"
 speaker: "Daniel Kim (President @ Bit Project) + Emily Chen (Student)"
 time: "TBD"
-picture: emily_ac
+picture: daniel_ac
+picture2: emily_ac
 twitter: "learnwdaniel"
+twitter2: "emsesc"
 type: talk
 year: "2021"
 bio: "Daniel Kim (He/Him) is a Senior Developer Relations Engineer at New Relic and the founder of Bit Project, a 501(c)(3) nonprofit dedicated make tech accessible to underserved communities. He wants to inspire generations of students in tech to be the best they can be through inclusive, accessible developer education. He is passionate about diversity & inclusion in tech, good food, and dad jokes.

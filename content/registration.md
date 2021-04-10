@@ -1,9 +1,11 @@
 ---
-title: "Register"
+title: "Registration"
 ---
 
-Sign up for our newsletter in order to stay on top of everything happening on our Deserted Island!
+There's no cost to attend Deserted Island DevOps! Please register with your email so we can remind you about upcoming events and make sure you're the first to know about our speakers, schedules, and more.
 
 {{< rawhtml >}}
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/DesertedIslandDevOps" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/DesertedIslandDevOps', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+<div class="is-16by9 is-fullwidth">
+<iframe src="https://cdn.forms-content.sg-form.com/c67f5440-9a28-11eb-ae59-def6717cd03d" class="has-ratio" width="401" height="360" frameBorder="0" />
+</div>
 {{< /rawhtml >}}

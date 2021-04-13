@@ -1,6 +1,7 @@
 {{ define "title" }}Deserted Island {{ .Section }} &ndash; {{ .Title }}{{ end }}
 
 {{ define "main" }}
+{{ $headless := .Resources }}
 {{ $sponsorYear := .Params.year }}
 <section class="section">
   <div class="container">
@@ -12,7 +13,14 @@
         {{ $filteredSponsors := where $sponsors ".Params.year" "eq" $sponsorYear }}
         {{ range $filteredSponsors }}
           <div class="column is-4">
-            <a href="https://{{ .Params.url }}"><img src="{{ .Params.logo }}"></a>
+          <a href="https://{{ .Params.url }}">
+            <p class="image">
+              {{ with $logo := $headless.GetMatch .Params.logo }}
+              {{ $resize := $logo.Fit "640x360" }}
+              <img src="{{ $resize.RelPermalink }}">
+              {{ end }}
+            </p>
+            </a>
           </div>
         {{ end }}
       </div>

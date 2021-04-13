@@ -1,7 +1,7 @@
 ---
 title: "BridgeCrew"
 url: "www.bridgecrew.io"
-logo: /images/sponsorlogo/bridgecrew.png
+logo: bridgecrew
 type: sponsor
 year: "2020"
 ---

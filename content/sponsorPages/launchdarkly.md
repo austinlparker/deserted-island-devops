@@ -1,7 +1,7 @@
 ---
 title: LaunchDarkly
 url: "www.launchdarkly.com"
-logo: /images/sponsorlogo/launchdarkly.png
+logo: launchdarkly
 type: sponsor
 year: "2020"
 ---

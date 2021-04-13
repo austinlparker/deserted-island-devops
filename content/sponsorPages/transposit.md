@@ -1,7 +1,7 @@
 ---
 title: "Transposit"
 url: "www.transposit.com"
-logo: /images/sponsorlogo/transposit.png
+logo: transposit
 type: sponsor
 year: "2020"
 ---

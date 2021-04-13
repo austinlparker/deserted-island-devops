@@ -1,7 +1,7 @@
 ---
 title: ServerlessOps
 url: "www.serverlessops.com"
-logo: /images/sponsorlogo/serverlessops.png
+logo: serverlessops
 type: sponsor
 year: "2020"
 ---

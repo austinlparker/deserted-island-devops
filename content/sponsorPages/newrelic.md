@@ -1,7 +1,7 @@
 ---
 title: New Relic
 url: "www.newrelic.com"
-logo: /images/sponsorlogo/newrelic.png
+logo: newrelic
 type: sponsor
 year: "2020"
 ---

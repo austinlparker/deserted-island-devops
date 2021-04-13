@@ -1,7 +1,7 @@
 ---
 title: Lightstep
 url: "www.lightstep.com"
-logo: /images/sponsorlogo/lightstep.png
+logo: lightstep
 type: sponsor
 year: "2020"
 weight: -10

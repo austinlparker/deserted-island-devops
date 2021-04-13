@@ -1,7 +1,7 @@
 ---
 title: "Blameless"
 url: "www.blameless.com"
-logo: /images/sponsorlogo/blameless.png
+logo: blameless
 type: sponsor
 year: "2020"
 ---

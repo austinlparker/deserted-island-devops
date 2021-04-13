@@ -1,6 +1,6 @@
 ---
 title: "I streamed a stream in queues gone by"
-speaker: "Angelina Uno-Antonison (Senior Software Developer, Center for Computational Genomics and Data Science @ University of Alabama at Birmingham)"
+speaker: "Angelina Uno-Antonison (Software Architect, Center for Computational Genomics and Data Science @ University of Alabama at Birmingham)"
 time: "TBD"
 picture: angelina_ac
 twitter: "serioushorncat"

@@ -34,6 +34,8 @@ resources:
     src: images/daniel_ac.jpg
   - name: josh_ac
     src: images/josh_ac.jpg
+  - name: sam_aaron
+    src: images/samaaron400.jpg
 ---
 
 This is the published schedule and agenda for Deserted Island DevOps 2021. Pre-show starts at 11:45 AM ET.

@@ -1,0 +1,15 @@
+<div id="countdown">
+  <b id="timer"></b>
+  <script>
+    var date = new Date("April 30, 2021 11:30:00").getTime();
+    var cd = setInterval(function() {
+      var now = new Date().getTime();
+      var diff = date - now;
+      var days = Math.floor(diff / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((diff % (1000 * 60)) / 1000);
+      document.getElementById("timer").innerHTML = "Live in " + days + " days, " + hours + " hours, " + minutes + " minutes, " + seconds + " seconds ";
+    }, 1000);
+  </script>
+</div>

@@ -38,5 +38,5 @@ resources:
     src: images/samaaron400.jpg
 ---
 
-This is the published schedule and agenda for Deserted Island DevOps 2021. Pre-show starts at 11:45 AM ET.
+This is the published schedule and agenda for Deserted Island DevOps 2021.
 #### All Times Eastern US

@@ -1,13 +1,16 @@
 ---
 title: "Observability on an Island"
 speaker: "Josh MacDonald (Software Engineer @ Lightstep)"
-time: "TBD"
+time: "6:45"
 picture: josh_ac
 twitter: "JMacDee1"
 type: talk
 year: "2021"
 bio: "Josh MacDonald has worked on debugging technologies and diagnostics for most of his career. He is a staff software engineer at Lightstep, a leader in the OpenTelemetry Metrics project, and a member of the OpenTelemetry technical committee. He programs for fun and when it’s not observability systems, he prefers programming with math and flashing LEDs."
-weight: -0
+weight: -1
+prebreak: true
+breaktitle: "Closing"
+breaklen: "5m"
 ---
 
 Telemetry agents (collectors, sidecars) run in isolated

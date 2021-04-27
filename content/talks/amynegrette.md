@@ -1,13 +1,13 @@
 ---
 title: "Fruit and Turnips: A Cost Management Journey"
 speaker: "Amy Negrette (Cloud Economist @ The Duckbill Group)"
-time: "TBD"
+time: "2:45"
 picture: amy_ac
 twitter: "nerdypaws"
 type: talk
 year: "2021"
 bio: "My name is Amy Arambulo Negrette and I have an abundance of cherries on my island. I've been an application developer for over ten years. I currently work as a Cloud Economist working to manage spend for various AWS customers. "
-weight: -4
+weight: -8
 ---
 
 Our priorities inform what we do with our money. What do you really need those bells for? Are you trying to add an extension on your home or get a five star island? How will what you buy help? How do you plan to get those bells?

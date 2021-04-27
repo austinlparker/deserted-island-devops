@@ -7,7 +7,10 @@ twitter: "samaaron"
 type: talk
 year: "2021"
 bio: "Professional live coder. Creator of @Sonic_Pi, programmer, educator, musician, PhD. Featured in Rolling Stone and the New York Times."
-weight: -15
+weight: -14
+prebreak: true
+breaktitle: "Opening Comments"
+breaklen: "5m"
 ---
 
 We'll kick off Deserted Island DevOps 2021 with a special live musical performance by Sam Aaron!

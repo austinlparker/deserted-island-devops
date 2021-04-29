@@ -17,7 +17,7 @@
           {{ range $talk := $filteredTalks }}
 
             <article class="media">
-              <figure class="media-left">
+              <figure class="media-left is-hidden-mobile">
                 <a class="anchor" id="{{ .File.TranslationBaseName }}"></a>
                 <p class="image is-128x128 is-rounded">
                   {{ with $icon := $headless.GetMatch .Params.picture }}
@@ -36,11 +36,12 @@
               <div class="media-content">
                 <div class="content">
                   <p>
-                    <strong class="is-size-4">{{ .Params.title }}</strong> <br />
-                    <i class="is-size-5">{{.Params.speaker}} | <a href="https://twitter.com/{{.Params.twitter}}">@{{ .Params.twitter }}</a>
+                    <strong class="is-size-5">{{ .Params.title }}</strong> <br />
+                    <i class="is-size-7">{{.Params.speaker}} | <a href="https://twitter.com/{{.Params.twitter}}">@{{ .Params.twitter }}</a>
                     {{ if isset .Params "twitter2" }}
                     | <a href="https://twitter.com/{{.Params.twitter2}}">@{{ .Params.twitter2 }}</a>
                     {{ end }}
+                    | <span class="icon-text is-small "><i class="fas fa-clock "></i>{{ .Params.time }}&nbsp;EDT</span>
                     </i> 
                     
                     <div class="columns">
@@ -56,13 +57,6 @@
                     </div>
                   </p>
                 </div>
-                <nav class="level is-mobile">
-                  <div class="level-left">
-                    <p class="level-item">
-                      <span class="icon is-small"><i class="fas fa-clock"></i> &nbsp;{{ .Params.time }}&nbsp;EDT</span>
-                    </p>
-                  </div>
-                </nav>
               </div>
               <div class="media-right">
                 <a href="#{{.File.TranslationBaseName}}"><span class="icon is-small"><i class="fas fa-link"></i></span></a>
@@ -71,7 +65,7 @@
             {{ if isset .Params "prebreak" }}
             <article class="media">
               <div class="media-content has-text-centered">
-                <strong class="is-size-4">{{ .Params.breaktitle }} - {{ .Params.breaklen }}</strong>
+                <strong class="is-size-5">{{ .Params.breaktitle }} - {{ .Params.breaklen }}</strong>
               </div>
             </article>
             {{ end }}

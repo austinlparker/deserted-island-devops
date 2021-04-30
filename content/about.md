@@ -45,3 +45,18 @@ Please find our [Code of Conduct](/coc) here.
 ## Acknowledgements
 
 Thanks to [Sessionize](https://sessionize.com) for allowing free use of their CFP tool.
+
+Thanks to Nintendo for making Animal Crossing.
+
+Here's a list of the music that's being played during breaks -
+
+* Cats n Dogs, Gone Fishin, Grasslit Moon - Original Compositions by [Sam Aaron](http://sam.aaron.name/) for Deserted Island DevOps 2021
+* 5 AM (Remix) - [fortuneswan](https://www.youtube.com/watch?v=gV8KOFT831k)
+* 3 AM (Remix) - [Curly](https://www.youtube.com/watch?v=vVEfKS5hlnU)
+* 2 AM (Remix) - [Dj Cutman + GlitchxCity](https://www.youtube.com/watch?v=stvu6bT1nOU)
+* 5 PM (Remix) - [Video Game Remixes](https://www.youtube.com/watch?v=ag-T0R8fYxk)
+* 7 AM (Remix) - [Ben Briggs, GonZealous](https://www.youtube.com/watch?v=NE6OFC0bFjU)
+* Animal Crossing: New Horizons Theme (Lofi Lia Remix) - [Lofi Lia](https://www.youtube.com/watch?v=vj3qfZo5SUQ)
+* 12 PM (Remix) - [Naz3nt](https://www.youtube.com/watch?v=fZ-ax0Hw8ag)
+* Animal Crossing: New Horizons Theme (Remix) - [Video Game Remixes](https://www.youtube.com/watch?v=Nh4S06pPWMg)
+

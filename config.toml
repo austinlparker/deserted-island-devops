@@ -1,21 +1,21 @@
 title = "Deserted Island DevOps"
 baseURL = "https://desertedisland.club"
 disableKinds = ["taxonomy", "taxonomyTerm"]
-description = "Deserted Island DevOps 2021 is coming 4/30/21!"
+description = "Deserted Island DevOps 2022 is coming 9/14/22!"
 
 [blackfriday]
 hrefTargetBlank = true
 
 [params]
 tagline = "Deserted Island DevOps"
-sub_tagline = "Deserted Island DevOps 2021"
-sub_description = "See you next time!"
+sub_tagline = "Deserted Island DevOps 2022"
+sub_description = "September 14-15, Live on Twitch from Mackinac Island, MI"
 font_awesome_version = "5.8.1"
 mainSections = ["messages"]
 meta_desc = "The world's first (and only) DevOps conference in Animal Crossing!"
 
 [params.logos]
-hero = "logos/hero_2021.png"
+hero = "logos/hero_2022.png"
 
 [[params.fonts]]
 name = "Noto Sans"

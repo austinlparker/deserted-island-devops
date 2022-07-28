@@ -1,7 +1,7 @@
 ---
 title: "Deserted Island DevOps 2022 - Dates and CFP"
 author: "Austin Parker"
-date: 2022-06-01
+date: 2022-05-31
 ---
 
 Deserted Island DevOps is back!

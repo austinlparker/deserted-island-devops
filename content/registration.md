@@ -2,10 +2,27 @@
 title: "Registration"
 ---
 
-There's no cost to attend Deserted Island DevOps! Please register with your email so we can remind you about upcoming events and make sure you're the first to know about our speakers, schedules, and more.
+Registration for Deserted Island DevOps 2022 is now open!
 
 {{< rawhtml >}}
-<div class="is-16by9 is-fullwidth">
-<iframe src="https://cdn.forms-content.sg-form.com/c67f5440-9a28-11eb-ae59-def6717cd03d" class="has-ratio" width="401" height="360" frameBorder="0" />
-</div>
+<div id="eventbrite-widget-container-392495333107"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '392495333107',
+        iframeContainerId: 'eventbrite-widget-container-392495333107',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 {{< /rawhtml >}}

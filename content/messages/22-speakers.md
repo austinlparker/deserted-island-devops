@@ -1,5 +1,5 @@
 ---
-title: "Registration and Keynote Speakers Announced!"
+title: "Speaker Announcement!"
 author: "Austin Parker"
 date: 2022-08-08
 ---

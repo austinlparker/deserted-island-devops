@@ -3,7 +3,7 @@ title: "Can You GitOps Your API?"
 speaker: "Abdallah Abedraba"
 time: "TBD"
 picture: abdallah
-twitter: "aabredraba"
+twitter: "aabedraba"
 type: talk
 year: "2022"
 bio: "Abdallah is a Developer Advocate at Kubeshop, focusing on API workflows and developer experience in Kubernetes, with a huge passion of engaging with developer communities and coming from a prior experience in application development and developer advocacy at GreenMobility and Google."

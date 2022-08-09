@@ -38,6 +38,8 @@ resources:
     src: images/kat.png
   - name: heidi
     src: images/heidi.png
+  - name: john
+    src: images/john.jpg
 ---
 
 This is the published schedule and agenda for Deserted Island DevOps 2022.

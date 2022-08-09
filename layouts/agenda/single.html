@@ -19,16 +19,16 @@
             <article class="media">
               <figure class="media-left is-hidden-mobile">
                 <a class="anchor" id="{{ .File.TranslationBaseName }}"></a>
-                <p class="image is-128x128 is-rounded">
+                <p class="image is-128x128 is-roundrect">
                   {{ with $icon := $headless.GetMatch .Params.picture }}
                   {{ $resize := $icon.Resize "128x128 jpg q100" }}
-                  <img class="is-rounded" src="{{ $resize.RelPermalink }}">
+                  <img class="is-roundrect" src="{{ $resize.RelPermalink }}">
                   {{end}}
                   {{ if isset .Params "picture2" }}
                     {{ with $icon2 := $headless.GetMatch .Params.picture2 }}
                     {{ $resize2 := $icon2.Resize "128x128 jpg q100" }}
                     <br />
-                    <img class="is-rounded" src="{{ $resize2.RelPermalink }}">
+                    <img class="is-roundrect" src="{{ $resize2.RelPermalink }}">
                     {{ end }}
                   {{ end }}
                 </p>

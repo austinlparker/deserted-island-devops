@@ -37,7 +37,7 @@ resources:
   - name: kat
     src: images/kat.png
   - name: heidi
-    src: images/heidi.png
+    src: images/heidi.jpg
   - name: john
     src: images/john.jpg
 ---

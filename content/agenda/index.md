@@ -44,6 +44,8 @@ resources:
     src: images/fatima.jpg
   - name: daniel
     src: images/daniel.png
+  - name: matt
+    src: images/matt.jpg
 ---
 
 This is the published schedule and agenda for Deserted Island DevOps 2022.

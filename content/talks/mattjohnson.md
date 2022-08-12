@@ -3,7 +3,7 @@ title: "Hands on with Kubernetes deployment security"
 speaker: "Matt Johnson"
 time: "TBD"
 picture: matt
-twitter: "n/a"
+twitter: "metahertz"
 type: talk
 year: "2022"
 bio: "Based in not-so-sunny Manchester, UK, Matt leads developer relations at Bridgecrew. Whether he’s writing articles, giving talks, or shipping new features, Matt is passionate about helping DevOps teams simplify, automate, and improve their infrastructure security."

@@ -11,3 +11,5 @@ themes/
 # Link checker
 bin/
 tmp/
+
+.DS_Store

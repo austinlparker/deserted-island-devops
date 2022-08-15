@@ -1,13 +1,13 @@
 ---
 title: "Distributed shared team configurations with Oh-My-Zsh"
 speaker: "John McBride"
-time: "TBD"
+time: "9/15 @ 11:30 AM"
 picture: john
 twitter: "johncodezzz"
 type: talk
 year: "2022"
 bio: "John is a Software Development Engineer at a large technology company working on Bottlerocket, a secure linux operating system for running containers and kubernetes. He is a maintainer of spf13/cobra, a CLI bootstrapping library. In the past, he has worked on open source Kubernetes platforms and lead teams building observability products."
-weight: 0
+weight: -8
 ---
 
 Team knowledge, configurations, and infrastructure access can be challenging in a distributed world. Have you ever asked "what's that command we use?" or "Where are the secrets to access that environment?" - well this talk is for you!

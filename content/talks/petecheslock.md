@@ -1,7 +1,7 @@
 ---
 title: "The Obvious Evolution of Observability"
 speaker: "Pete Cheslock"
-time: "TBD"
+time: "9/14 @ 3:30 PM"
 picture: pete
 twitter: "petecheslock"
 type: talk
@@ -9,7 +9,7 @@ year: "2022"
 bio: "Pete is currently the Head of Growth And Community for AppMap, the open source dynamic runtime code analyzer. Pete also works with early stage startups, helping them navigate the complex world of early stage new product development. 
 
 Pete also fully acknowledges his profile pic is slightly out of date, but has been too lazy to update it to reflect current hair growth trends. "
-weight: 0
+weight: -13
 ---
 
 From managing custom-built bespoke servers in data centers, to spinning up serverless applications in the cloud, monitoring and observability has undergone a generational shift over the past decade. 

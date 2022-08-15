@@ -1,7 +1,7 @@
 ---
 title: "DevOps Isn't Just About Developing"
 speaker: "Michelle Mannering"
-time: "TBD"
+time: "9/14 @ 4:00 PM"
 picture: michelle
 twitter: "mishmanners"
 type: talk
@@ -10,7 +10,7 @@ bio: "I am a highly motivated, curious and compassionate leader with a keen inte
 Everyday I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator. You'll often catch me at an event or speaking on stage!
 
 In my 'spare' time I'm a streamer, journalist, and always working on something exciting."
-weight: 0
+weight: -12
 ---
 
 It's widely accepted that DevOps is as much a cultural shift as it is about the technology that's used. DevOps consists of four main pillars, one of which is collaboration.

@@ -1,13 +1,13 @@
 ---
 title: "Evergreen DevOps"
 speaker: "Aaron Aldrich"
-time: "TBD"
+time: "9/15 @ 2:30 PM"
 picture: aaron
 twitter: "crayzeigh"
 type: talk
 year: "2022"
 bio: "Aaron Aldrich is a Developer Advocate at Equinix Metal, creator of TabletopDevops (@tabletopdevops) and the Brains on the Internet podcast (@internet_brains) and an organizer for DevOpsDays Hartford, NYC and Boston. Passionate about Resilience Engineering and Mental Health in the tech industry, they believe that every technology problem is ultimately, when you get right down to it, a people challenge. Find them at crayzeigh.com for thoughts on technology and people or on twitter @CrayZeigh for a potluck of technology, politics and general tomfoolery."
-weight: 0
+weight: -4
 ---
 
 A lot has happened in the past 10 years (give or take) of DevOps. What started as a single tech conference in Belgium became 80 worldwide events in 2019 and persists throughout a global pandemic as online gatherings. And while the tech du jour of these events has shifted over time —conferences full of talks and open spaces on jenkins pipelines give way to docker and now to kubernetes talk— we’re still talking about how best to learn from incidents, or how to foster psycological safety. Everything we’re still discussing is about growing as people and building strong teams and communities.

@@ -2,7 +2,9 @@
 title = "About"
 +++
 
-Deserted Island DevOps is a single-day virtual event, to be livestreamed on twitch.tv/desertedislandtv on April 30th, 2021. All presentations will take place in the world of Animal Crossing: New Horizons.
+Deserted Island DevOps is a single-day virtual event, to be livestreamed on
+twitch.tv/desertedislandtv on September 14th and 15th, 2022. 
+All presentations will take place in the world of Animal Crossing: New Horizons.
 
 As this is a community event that's free to attend, we encourage viewers or anyone that gets something out of the talks to make a donation to the conference's preferred charity, [The Trevor Project](https://www.thetrevorproject.org/). 
 
@@ -36,7 +38,10 @@ Yes, closed captioning will be available.
 
 * Do I need to register?
 
-Registration isn't required, but it's recommended. Sign up [here](/registration) so we can send you emails.
+Registration is highly recommended for early access to session recordings, as
+well as the ability to sign up for a VIP ticket! VIP ticket holders grant you
+access to two exclusive panels, as well as an event t-shirt. All proceeds (after
+costs) go to our event charity, The Trevor Project. You can [register here](/registration).
 
 ## Code of Conduct
 

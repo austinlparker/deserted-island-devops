@@ -18,8 +18,8 @@ resources:
     src: images/pete.jpg
   - name: trip
     src: images/trip.jpg
-  - name: chris
-    src: images/chris.jpg
+  - name: kaslin
+    src: images/kaslin.jpg
   - name: abdallah
     src: images/abdallah.jpg
   - name: amy

@@ -22,7 +22,7 @@ Deserted Island Sessions is a continuation of what we started at Deserted Island
 
 ## Registration
 
-As before, this event will be entirely free to attend, and live streamed on Twitch. If you'd like to stay in touch and get the latest updates, please [register for our newsletter](/registration) and join our [Discord server](https://discord.gg/sz8pX42).
+As before, this event will be entirely free to attend, and live streamed on Twitch. If you'd like to stay in touch and get the latest updates, please [register for our newsletter](/mailing-list) and join our [Discord server](https://discord.gg/sz8pX42).
 
 ## Call for Speakers
 

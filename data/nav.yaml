@@ -1,7 +1,7 @@
 - name: About
   url: "/about"
-- name: Register
-  url: "/registration"
+- name: Mailing List
+  url: "/mailing-list"
 - name: Agenda
   url: "/agenda"
 - name: Code of Conduct

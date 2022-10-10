@@ -41,7 +41,7 @@ Yes, closed captioning will be available.
 Registration is highly recommended for early access to session recordings, as
 well as the ability to sign up for a VIP ticket! VIP ticket holders grant you
 access to two exclusive panels, as well as an event t-shirt. All proceeds (after
-costs) go to our event charity, The Trevor Project. You can [register here](/registration).
+costs) go to our event charity, The Trevor Project. You can [register here](/mailing-list).
 
 ## Code of Conduct
 

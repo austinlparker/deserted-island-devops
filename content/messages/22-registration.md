@@ -22,6 +22,6 @@ receive exclusive access to the event, including:
 - Custom Discord Role
 - More!
 
-Be sure to [register today](/registration) to get your ticket -- once they're gone, they're gone!
+Be sure to [register today](/mailing-list) to get your ticket -- once they're gone, they're gone!
 We'll be announcing our full list of speakers in the next couple of weeks, but I
 can assure you, you won't want to miss this year's talks. See you in September!
